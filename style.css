@@ -1,0 +1,18 @@
+body{
+    background-color:midnightblue;
+    color: ghostwhite;
+}
+#camera,#result{
+    border-radius: 30px;
+border-color:skyblue;
+width:500px;
+height:250px;
+border-width: 5px;
+border:2px solid;
+}
+#object_color{
+background-color: skyblue;
+border-radius: 30px;
+color: black;
+width: 500px;
+}
